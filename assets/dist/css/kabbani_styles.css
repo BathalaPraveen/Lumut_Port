@@ -1,0 +1,283 @@
+
+.main-header{
+    
+    background:  #ffffff !important;
+
+}
+.brand-link{
+     background:  #ffffff !important;
+}
+
+.sidebar{
+  background:  #006eab !important;
+    padding-left: .0rem !important;
+    padding-right: .0rem !important;
+}
+
+[class*=sidebar-dark-] .sidebar a{
+    color: #fff !important;
+}
+
+.nav-pills .nav-sidebar .nav-link{
+    color: #fff !important;
+}
+.nav .nav-treeview{
+    background: #aba90d !important;
+}
+/* .nav-sidebar .nav-item{
+    border-bottom: 1px solid #ecd283 !important;
+}*/
+
+.menu-open .nav .nav-treeview{
+    background: #4b545c !important;
+}
+.nav-item .menu-open > ul > li > a{
+    margin-left:15px !important;
+    transition: all 0.7s ease-in-out;
+}
+.nav-item .menu-open > ul > li > a:nth-child(2){
+    margin-left:10px !important;
+}
+.nav nav-treeview {
+    padding-left: 20px;
+}
+
+textarea{
+    resize : none;
+}
+.error{
+    color : red;
+}
+.wrapper{
+    margin-top: 50px;
+    background: #f4f6f9;
+}
+.content{
+    padding-top:30px !important;
+}
+    
+/*jasny image style start*/
+
+ .fileinput {
+        display: inline-block;
+        margin-bottom: 9px;
+    }
+    .fileinput .thumbnail {
+        display: inline-block;
+        margin-bottom: 5px;
+        overflow: hidden;
+        text-align: center;
+        vertical-align: middle;
+    }
+    .bootimgheight {
+        width: 270px !important;
+        height: 153px !important;
+        margin-top: 30px;
+    }
+    .thumbnail {
+        display: block;
+        padding: 4px;
+        margin-bottom: 20px;
+        line-height: 1.42857143;
+        background-color: #fff;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        -webkit-transition: border .2s ease-in-out;
+        -o-transition: border .2s ease-in-out;
+        transition: border .2s ease-in-out;
+    }
+    .file-pop {
+        top: 33% !important;
+        margin-left: 27% !important;
+        margin-right: 0% !important;
+        position: absolute;
+        font-size: 20px;
+    }
+    .btn-file {
+        position: relative;
+        overflow: hidden;
+        vertical-align: middle;
+    }
+    .file-pop button.btn {
+        font-size: 20px;
+    }
+    .file-pop .fileinput-exists {
+        display: none;
+    }
+    .fileinput .btn {
+        vertical-align: middle;
+    }
+    .btn-file > input {
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        font-size: 23px;
+        cursor: pointer;
+        filter: alpha(opacity=0);
+        opacity: 0;
+        direction: ltr;
+    }
+    .m-t-10{
+        margin-top:10px;
+    }
+    .m-l-10{
+        margin-left:10px;
+    }
+    .m-l-20{
+        margin-left:20px;
+    }
+    .m-b-10{
+        margin-bottom:10px;
+    }
+    .m-r-20{
+        margin-right:20px;
+    }
+    .m-r-10{
+        margin-right:10px;
+    }
+.m-l-80 {
+     margin-left:80px;
+}
+    .marginStyl{
+        margin:10px;
+       
+    }
+    
+    
+/*jasny image style end*/
+
+.backBtns{
+        float:right !important;
+        margin-top:-44px !important;
+    }
+    
+    .emplDet{
+        border: 1px solid #006eab;
+    }
+    
+    .fa.fa-trash{
+        color : red !important;
+    }
+    #example1>thead>tr{
+            background: -webkit-linear-gradient(90deg, #2768ad 30%, #3bb4ed 70%);
+                color: #fff;
+    }
+       #usexample1>thead>tr{
+            background: -webkit-linear-gradient(90deg, #2768ad 30%, #3bb4ed 70%);
+                color: #fff;
+    }
+       #monthly1>thead>tr{
+            background: -webkit-linear-gradient(90deg, #2768ad 30%, #3bb4ed 70%);
+                color: #fff;
+    }
+       #daily1>thead>tr{
+            background: -webkit-linear-gradient(90deg, #2768ad 30%, #3bb4ed 70%);
+                color: #fff;
+    }
+     #atarincident1>thead>tr{
+            background: -webkit-linear-gradient(90deg, #2768ad 30%, #3bb4ed 70%);
+                color: #fff;
+    }
+        #overallatar1>thead>tr{
+            background: -webkit-linear-gradient(90deg, #2768ad 30%, #3bb4ed 70%);
+                color: #fff;
+    }
+       #ptw_table>thead>tr{
+            background: -webkit-linear-gradient(90deg, #2768ad 30%, #3bb4ed 70%);
+                color: #fff;
+    }
+    
+    .card-title{
+        font-weight:bold;
+        color: #2768ad;
+        text-transform: uppercase;
+    }
+    
+    /*add form style start*/
+    
+    .headingStyl{
+        margin: 17px 0 0 17px;
+        color: #2768ad;
+    }
+    .card-headprimary{
+        border-top: 4px solid #f3b909;
+    }
+    label.error{
+        font-weight:500 !important;
+    }
+    .with-border{
+        background-color:#006eab;
+        color:white;
+        padding: 8px 0 1px 17px;
+    }
+    /*///////////add form style end*/
+    .notificationDropdown{
+        max-height: 200px;
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        overflow-x: hidden;
+    }
+    
+    .fa-eye{
+        color: green;
+    }
+    
+    .brand-link .brand-image{
+      
+        max-height: 100%;
+        width: 98%;
+        border-radius : 0% !important;
+    }
+    .brand-link{
+        padding: 0px !important;
+    }
+    .brand-link .brand-image{
+        margin-left:-5px !important;
+      margin-top : 0px !important;
+    }
+.filtStyl{
+    border: 2px solid #afaead;
+    background: -webkit-linear-gradient(90deg, #f7d570 30%, #f7e6b3 70%);
+}
+   
+    
+/*loader*/
+#divLoading {
+    display: none;
+}
+
+#divLoading.show {
+    display: block;
+    position: fixed;
+    z-index: 9999;
+    /*background-image: url('../images/loader.gif');*/
+    background-image: url('../../images/loader.gif');
+    background-color: #fff;
+    opacity: 0.7;
+    background-repeat: no-repeat;
+    background-position: center;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    top: 0;
+    background-size: 262px;
+}
+
+.panel-body{
+    border: 2px solid #1e6dab;
+}
+
+.nav-item .active {
+    background-color: #aba90d;
+}
+
+li .nav-item .active .menu-open a.nav-link {
+    border-bottom: 1px solid white;
+}
+.btn-group, .btn-group-vertical {
+    display: block !important;
+}

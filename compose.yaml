@@ -1,0 +1,9 @@
+
+services:
+  app:
+    build: .
+    container_name: legacy-php56
+    ports:
+      - "8056:80"
+    volumes:
+      - ./:/var/www/html
